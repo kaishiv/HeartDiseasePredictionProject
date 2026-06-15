@@ -1,9 +1,7 @@
 # Heart Disease Prediction Project
-
-This project focuses on predicting heart disease using machine learning techniques.
-
-Dataset:
-https://archive.ics.uci.edu/dataset/45/heart+disease
+I selected the Framingham Heart Study dataset available on Kaggle.
+Dataset Link:
+https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
 
 Student:
 Kaishiv Joshi
